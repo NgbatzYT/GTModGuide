@@ -7,28 +7,36 @@
 - [Choosing your platform](choosing-your-platform.md)
 - * [Windows](windows.md)
 - * [Linux](linux.md)
-- [The end(already??)](the-end.md)
+- [The end](the-end.md)
 
 **extras:**
 - [Locating your game path](game-path.md)
 
 ### Is modding the game safe?
-while modding is not officialy supported by the developers, if you use mods and not cheats you will probably be safe.
+While modding may not be officially supported by the developers, if you don't use cheats you have a lower chance of getting banned.
 
-it is important to understand the difference between Mods and Cheats
+It is important to understand the difference between Mods and Cheats.
 
 > **Mods**
 > - Mods **do not** provide an advantage over other players.
 > - Examples:  
->   - Custom cosmetic mods (e.g., "Gorilla Shirts")  
+>   - Custom cosmetic mods (e.g., "Gorilla Shirts", "Monke Cosmetics")
+>   - QoL or CS mods (e.g., "Gorilla Info Watch", "Computer Interface")  
 >   - Mod panels restricted to modded lobbies only (e.g., "Grate")  
 > - These come with a low risk of getting banned if used responsibly.
 >
 > **Cheats**
 > - Cheats **do provide** an advantage over other players.
 > - Examples:  
->   - Mod menus that work in noral lobbies  
+>   - Mod menus that work in non-modded lobbies.
+>   - Ban, Kick, or Tag Gun.
+>   - Anything that makes the player rig not behave correctly.
+>   - Player tracking. (Does not include the Friend Station)
+>   - Getting all in-game cosmetics for free.
+>   - Invis, and Ghost Monke.
 > - These come with a high risk of getting banned.
+>
+> For the lowest chance of being banned we recommend only using Monke Mod Manager to install mods.
 
 **read the next notice with AA's official views on it:**
 > **GAME MODDING:**
